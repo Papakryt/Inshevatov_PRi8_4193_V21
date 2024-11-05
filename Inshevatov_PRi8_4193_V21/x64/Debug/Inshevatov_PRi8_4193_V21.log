@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Papakryt\Documents\Programming\C++\Inshevatov_PRi8_4193_V21\Inshevatov_PRi8_4193_V21\main.cpp(23,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Papakryt\Documents\Programming\C++\Inshevatov_PRi8_4193_V21\Inshevatov_PRi8_4193_V21\main.cpp(24,20): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+  Inshevatov_PRi8_4193_V21.vcxproj -> C:\Users\Papakryt\Documents\Programming\C++\Inshevatov_PRi8_4193_V21\x64\Debug\Inshevatov_PRi8_4193_V21.exe
